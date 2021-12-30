@@ -21,6 +21,8 @@
    </div>
   </div>
   <br/><br/>
+  
+    ![Snake animation](https://github.com/rafaelalvesmds/rafaelalvesmds/blob/output/github-contribution-grid-snake.svg)
     
 <div align="center" > 
     <a href="https://discord.gg/hjAZmUSM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
