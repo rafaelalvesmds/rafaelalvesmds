@@ -18,7 +18,7 @@
   <div style="display: flex;">
     <a href="https://github.com/rafaelalvesmds">
     <img src="https://github-readme-stats.vercel.app/api?username=rafaelalvesmds&count_private=true&theme=dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalvesmds&count_private=true&layout=compact&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalvesmds&count_private=true&layout=compact&theme=dark&langs_count=8"/>
    </div>
 </div
     
