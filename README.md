@@ -1,5 +1,3 @@
-<h1 align="center"> Software Developer </h1>
-
 <br/>
 
 <div align="center" >
