@@ -10,7 +10,6 @@
 </div>
 
   <br/>    
- 
   
   <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Rafa-.Net" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
