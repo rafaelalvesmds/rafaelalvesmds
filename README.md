@@ -1,4 +1,3 @@
-<br/>
   <br/>    
   
   <div style="display: inline_block" align="center"><br>
